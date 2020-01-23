@@ -17,10 +17,6 @@ function whileLoop(number){
   return 'done'
 }
 
-/*
-
-}
-*/
 function doWhileLoop(number){
   var i = 0
   function incrementVariable(){
